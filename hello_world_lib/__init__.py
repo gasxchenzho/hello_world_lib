@@ -1,1 +1,1 @@
-from .printer import say_hello
+from .printer import say_hello, hello
